@@ -1,3 +1,5 @@
+--What is the number of nodes per region?
+
 -- SET search_path TO data_bank;
 -- SELECT region_id,
 --                 COUNT(DISTINCT node_id) as node_count
